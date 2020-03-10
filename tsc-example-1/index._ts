@@ -1,0 +1,5 @@
+const foo = <A>(a: A) => {
+  console.log(a);
+};
+
+export default foo;
